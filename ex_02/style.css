@@ -1,0 +1,26 @@
+body{
+    background: rgb(107,107, 241);
+    font: normal 10pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    margin: auto;
+    padding-bottom: 1px;
+    border-radius: 10px;
+    width: 350px; 
+    border-top: 1px solid black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.342);
+}
+#conteudo, #res{
+    margin: 20px;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-size: small;
+    font-style: italic;
+}
