@@ -1,0 +1,39 @@
+body{
+    background: rgb(107,107, 241);
+    font: normal 10pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    margin: auto;
+    padding-bottom: 1px;
+    border-radius: 10px;
+    width: 450px; 
+    border-top: 1px solid black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.342);
+}
+#conteudo{
+    margin: 20px;
+}
+select#flista{
+    width: 150px;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-size: small;
+    font-style: italic;
+}
+input#textn{
+    width: 25%;
+}
+#res{
+    margin: 20px;
+    border: 1px solid gray;
+}
+p{
+    padding-left: 5px;
+}
